@@ -38,6 +38,10 @@ learnshapes/
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Navigate to **Learnshapes > Settings** in the WordPress admin menu to configure your payment gateways, pages, and general preferences.
 
+> **Important Note:** After activating the plugin, if the Course Details page shows a 404 error, please re-save the permalink settings once.
+> Go to: **Settings → Permalinks → Click "Save Changes"**
+> This refreshes the WordPress rewrite rules and ensures course pages work correctly.
+
 ## 🎨 Template Overrides
 
 Learnshapes allows you to customize its frontend templates without touching the core plugin files. 
