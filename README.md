@@ -1,6 +1,6 @@
 # Learnshapes LMS Plugin
 
-**Learnshapes** is a premium, robust, and extensible Learning Management System (LMS) plugin for WordPress. It is designed to provide educators, instructors, and institutions with the tools they need to build, manage, and sell online courses with ease.
+Learnshapes is a modern WordPress LMS plugin designed for creating and managing online courses with responsive student and instructor dashboards, enrollment workflows, quizzes, progress tracking, and scalable learning management features. The plugin follows a clean, modular, and extensible architecture optimized for performance, customization, and WordPress compatibility.
 
 ## 🚀 Features
 
